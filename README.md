@@ -190,7 +190,7 @@ autodraw/
 
 ## 📞 联系方式
 
-- 项目主页: [https://github.com/yourusername/autodraw](https://github.com/copudev/autodraw)
+- 项目主页: [https://github.com/copudev/autodraw](https://github.com/copudev/autodraw)
 - 问题反馈: [Issues](https://github.com/copudev/autodraw/issues)
 
 ---
