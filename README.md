@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/autodraw.git
+git clone https://github.com/copudev/autodraw.git
 cd autodraw
 ```
 
