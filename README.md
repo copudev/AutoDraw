@@ -196,5 +196,5 @@ autodraw/
 ---
 
 <div align="center">
-⭐ 如果这个项目对你有帮助，请给个 Star！
+⭐ 如果这个项目对你有帮助，请给个 Star！非常感谢！！！
 </div>
